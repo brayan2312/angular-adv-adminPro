@@ -1,0 +1,42 @@
+/*******************
+Login register and recover password Page
+******************/
+.login-register {
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  height: 100% !important;
+  width: 100% !important;
+  padding: 10% 0 !important;
+  position: fixed !important;
+}
+
+.login-box {
+  width: 400px !important;
+  margin: 0 auto !important;
+}
+
+.login-box .footer {
+    width: 100% !important;
+    left: 0px !important;
+    right: 0px !important;
+}
+.login-box .social {
+  display: block !important;
+  margin-bottom: 30px !important;
+}
+
+#recoverform {
+  display: none !important;
+}
+
+.login-sidebar {
+  padding: 0px !important;
+  margin-top: 0px !important;
+}
+
+.login-sidebar .login-box {
+  right: 0px !important;
+  position: absolute !important;
+  height: 100% !important;
+}
